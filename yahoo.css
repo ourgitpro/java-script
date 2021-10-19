@@ -1,0 +1,69 @@
+.container {
+  border: 3px solid black;
+}
+.container-fluid {
+  border: 0px solid black;
+}
+
+.row {
+  border: opx solid red;
+}
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  border: 0px solid green;
+}
+
+#header {
+  background: orange;
+  padding: 10px 0 10px 10px;
+}
+#menu {
+  background: pink;
+  padding: 3px 0;
+}
+#content {
+  background: white;
+}
+#sidebar {
+  background: lightblue;
+}
+#footer {
+  background: orange;
+}
+body {
+  background: 0;
+}
+#menu ul {
+  list-style: none;
+  margin: 0;
+}
+#menu ul li {
+  display: inline-block;
+}
+
+.pink {
+  background: pink;
+}
+.orange {
+  background: #f39c12;
+}
+.blue {
+  background: #4aa6ee;
+}
+.green {
+  background: yellowgreen;
+}
+.xyz {
+  background: blue;
+}
